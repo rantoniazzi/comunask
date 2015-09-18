@@ -2,4 +2,5 @@
 
 ## Istruzioni di installazione 
 
-Al momento il software non è installabile
+Al momento il software non è installabile.
+Tieni d'occhio questo file!
