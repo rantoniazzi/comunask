@@ -3,4 +3,4 @@
 ## Istruzioni di installazione 
 
 Al momento il software non è installabile.
-Tieni d'occhio questo file!
+Tieni d'occhio questo file!!!
